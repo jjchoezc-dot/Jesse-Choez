@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8663153c-4f42-44a5-b081-6456f6871a4c" name="Cambios" comment="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matriz_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +30,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jjchoezc-bit/Jesse-Choez.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/jjchoezc-dot/Jesse-Choez.git&quot;,
     &quot;accountId&quot;: &quot;4247f692-8231-4efd-8e70-6622c2aeaa3b&quot;
   }
 }</component>
@@ -51,10 +48,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.calcular_descuento.executor": "Run",
     "Python.matriz_.executor": "Run",
+    "Python.temperaturas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +81,8 @@
       <workItem from="1756445577222" duration="432000" />
       <workItem from="1756471134632" duration="34000" />
       <workItem from="1756471180716" duration="2719000" />
+      <workItem from="1757767073475" duration="692000" />
+      <workItem from="1758513961581" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales">
       <option name="closed" value="true" />
@@ -99,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756471475670</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales">
+      <option name="closed" value="true" />
+      <created>1758514211663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758514211663</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +131,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject5$temperaturas.coverage" NAME="temperaturas Coverage Results" MODIFIED="1757767331332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$matriz_.coverage" NAME="Resultados de Cobertura de matriz_" MODIFIED="1756445668583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$calcular_descuento.coverage" NAME="calcular_descuento Coverage Results" MODIFIED="1758514079277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
