@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8663153c-4f42-44a5-b081-6456f6871a4c" name="Cambios" comment="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8663153c-4f42-44a5-b081-6456f6871a4c" name="Cambios" comment="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +82,7 @@
       <workItem from="1756471180716" duration="2719000" />
       <workItem from="1757767073475" duration="692000" />
       <workItem from="1758513961581" duration="504000" />
-      <workItem from="1759106612635" duration="328000" />
+      <workItem from="1759106612635" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales">
       <option name="closed" value="true" />
