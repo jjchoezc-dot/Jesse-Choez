@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8663153c-4f42-44a5-b081-6456f6871a4c" name="Cambios" comment="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales" />
+    <list default="true" id="8663153c-4f42-44a5-b081-6456f6871a4c" name="Cambios" comment="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_notes.txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_notes.txt.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,25 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.calcular_descuento.executor": "Run",
-    "Python.informacion_personal.executor": "Run",
-    "Python.matriz_.executor": "Run",
-    "Python.temperaturas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.calcular_descuento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.informacion_personal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matriz_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temperaturas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,7 +85,8 @@
       <workItem from="1756471180716" duration="2719000" />
       <workItem from="1757767073475" duration="692000" />
       <workItem from="1758513961581" duration="504000" />
-      <workItem from="1759106612635" duration="653000" />
+      <workItem from="1759106612635" duration="910000" />
+      <workItem from="1759597805812" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="Programación en Python y Sincronización con GitHub - Búsqueda y Ordenación en Arreglos Multidimensionales">
       <option name="closed" value="true" />
